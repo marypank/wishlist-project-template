@@ -1,5 +1,6 @@
 .link-dark {
     text-decoration: none;
+    cursor: pointer;
 }
 .link-dark:hover {
     text-decoration: underline;
